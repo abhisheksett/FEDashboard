@@ -1,0 +1,8 @@
+.og-grid li > a,
+.og-grid li > a img {
+	border: none !important;
+	outline: none !important;
+	display: block !important;
+	position: relative !important;
+  height: 250px !important;
+}

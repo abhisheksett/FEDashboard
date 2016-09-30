@@ -1,7 +1,7 @@
 baseurl = "https://fe-dashboard.herokuapp.com/"
 languageCode = "en-us"
 title = "Dashboard"
-theme = "Hugrid"
+theme = "hugrid"
 canonifyurls = true
 
 [params]

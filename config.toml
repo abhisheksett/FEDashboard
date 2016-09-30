@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "https://fe-dashboard.herokuapp.com/"
 languageCode = "en-us"
 title = "Dashboard"
 theme = "Hugrid"

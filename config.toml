@@ -1,0 +1,10 @@
+baseurl = "http://replace-this-with-your-hugo-site.com/"
+languageCode = "en-us"
+title = "Dashboard"
+theme = "Hugrid"
+canonifyurls = true
+
+[params]
+  # Shown in the home page
+  subtitle = "Front End Stack Dashboard"
+  brand = "Dashboard"

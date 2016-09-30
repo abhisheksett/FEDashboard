@@ -8,3 +8,4 @@ canonifyurls = true
   # Shown in the home page
   subtitle = "Front End Stack Dashboard"
   brand = "Dashboard"
+  custom_css = ["css/custom_style.css"]

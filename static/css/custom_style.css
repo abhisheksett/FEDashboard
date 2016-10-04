@@ -1,8 +1,10 @@
 .og-grid li > a,
 .og-grid li > a img {
-	border: none !important;
+	border: 1px solid #e0dbdb !important;
 	outline: none !important;
 	display: block !important;
 	position: relative !important;
   height: 250px !important;
+	width: 250px !important;
+	background: black !important;
 }

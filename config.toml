@@ -1,10 +1,11 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "https://fe-dashboard.herokuapp.com/"
 languageCode = "en-us"
 title = "Dashboard"
-theme = "Hugrid"
+theme = "hugrid"
 canonifyurls = true
 
 [params]
   # Shown in the home page
   subtitle = "Front End Stack Dashboard"
   brand = "Dashboard"
+  custom_css = ["css/custom_style.css"]

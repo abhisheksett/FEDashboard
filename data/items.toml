@@ -18,7 +18,7 @@ image = "http://4.bp.blogspot.com/-z-FiEqHNMrI/UA2Qu1plIGI/AAAAAAAAAm0/pFFmjHyr4
 thumb = "http://4.bp.blogspot.com/-z-FiEqHNMrI/UA2Qu1plIGI/AAAAAAAAAm0/pFFmjHyr4x8/s1600/css3%20logo.png"
 alt = "CSS3"
 description = "Let's look at the new CSS3 features here. Keep your styling knowledge uptodate."
-url = "#"
+url = "https://css3standards.herokuapp.com/post/"
 [[items]]
 title = "ES 5"
 image = "http://photos4.meetupstatic.com/photos/event/5/7/d/3/highres_436702483.jpeg"

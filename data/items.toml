@@ -39,7 +39,7 @@ image = "http://otake.com.mx/Wallpapers/Html5-01-1024x768.jpg"
 thumb = "https://thenewboston.com/images/forum/logos/145efe2aab7ca9959397d6344180b658.png"
 alt = "HTML 5"
 description = "Let's learn more about HTML5 and what it offers. "
-url = "http://html5-standards.herokuapp.com/tags/"
+url = "https://html5-standards-doc.herokuapp.com/"
 [[items]]
 title = "LESS"
 image = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LESS_Logo.svg/1280px-LESS_Logo.svg.png"

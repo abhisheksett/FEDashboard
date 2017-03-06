@@ -32,7 +32,7 @@ image = "http://www.unixstickers.com/image/cache/data/stickers/sass/sass.sh-600x
 thumb = "http://www.unixstickers.com/image/cache/data/stickers/sass/sass.sh-600x600.png"
 alt = "sass"
 description = "Learn more about SASS here."
-url = "https://github.com/aerohub/hugrid"
+url = "https://sassystyle.herokuapp.com/"
 [[items]]
 title = "HTML 5"
 image = "http://otake.com.mx/Wallpapers/Html5-01-1024x768.jpg"

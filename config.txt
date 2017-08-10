@@ -1,2 +1,15 @@
 Theme used is = Hugrid
 git clone https://github.com/aerohub/hugrid
+
+
+url = "https://ecmascript2015.herokuapp.com/"
+
+url = "https://css3standards.herokuapp.com/post/"
+
+url = "https://html5-standards-doc.herokuapp.com/"
+
+
+url = "https://bootstrap-guidelines.herokuapp.com/"
+
+
+url = "https://build-processes.herokuapp.com/"

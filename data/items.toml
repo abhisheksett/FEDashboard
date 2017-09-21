@@ -41,6 +41,13 @@ alt = "less"
 description = "Learn more about LESS here."
 url = "https://lessstandards.herokuapp.com/"
 [[items]]
+title = "SASS"
+image = "http://www.unixstickers.com/image/cache/data/stickers/sass/sass.sh-600x600.png"
+thumb = "images/sass.png"
+alt = "sass"
+description = "Learn more about SASS here."
+url = "https://sass-fi-deloitte.herokuapp.com/home/"
+[[items]]
 title = "REACT.js"
 image = "https://facebook.github.io/react/img/logo.svg"
 thumb = "images/react.png"
@@ -53,13 +60,6 @@ image = "http://photos4.meetupstatic.com/photos/event/5/7/d/3/highres_436702483.
 thumb = "images/javascript_watermark.png"
 alt = "JS"
 description = "Let's also not forget the popular Javascript format in use now. Concepts and best practices of ES5 is right here."
-url = "#"
-[[items]]
-title = "SASS"
-image = "http://www.unixstickers.com/image/cache/data/stickers/sass/sass.sh-600x600.png"
-thumb = "images/sass_watermark.png"
-alt = "sass"
-description = "Learn more about SASS here."
 url = "#"
 [[items]]
 title = "HTML 5"

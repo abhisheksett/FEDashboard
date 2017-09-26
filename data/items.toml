@@ -64,10 +64,10 @@ url = "https://html-standards.herokuapp.com/"
 [[items]]
 title = "ES 5"
 image = "http://photos4.meetupstatic.com/photos/event/5/7/d/3/highres_436702483.jpeg"
-thumb = "images/javascript_watermark.png"
+thumb = "images/javascript.png"
 alt = "JS"
 description = "Let's also not forget the popular Javascript format in use now. Concepts and best practices of ES5 is right here."
-url = "#"
+url = "https://chiragbhatia.github.io/ES5-Standards/"
 [[items]]
 title = "Ember.js"
 image = "http://emberjs.com/images/tomsters/construction.png"

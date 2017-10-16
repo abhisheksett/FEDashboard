@@ -18,7 +18,7 @@ image = "http://4.bp.blogspot.com/-z-FiEqHNMrI/UA2Qu1plIGI/AAAAAAAAAm0/pFFmjHyr4
 thumb = "images/css3.png"
 alt = "CSS3"
 description = "Let's look at the new CSS3 features here. Keep your styling knowledge uptodate."
-url = "https://css3standards.herokuapp.com/post/"
+url = "https://css3guides.herokuapp.com/"
 [[items]]
 title = "Angular.JS"
 image = "https://s-media-cache-ak0.pinimg.com/originals/3d/e3/8c/3de38c1ab9551c4468800f13ea604386.jpg"
